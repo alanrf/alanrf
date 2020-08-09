@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Alan Fritsch and I'm a brazilian developer(🇧🇷).
+
 <!--
 **alanrf/alanrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
